@@ -33,3 +33,6 @@
 
 ## Natural Language Processing
 ![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/8.jpg)
+
+## Structured Query Language
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/Team%20stat.PNG)
