@@ -1,3 +1,5 @@
+#Machine Learning
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/0.png)
 ```http
 ```
 | No | Description            | Github | Kaggle   | Dataset|
@@ -14,4 +16,12 @@
 |10| IPL Analysis using SQL | [Link](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL)|  [Link](https://www.kaggle.com/code/sudhanshu2198/ipl-sports-analysis-using-sql)        |   [Link](https://www.kaggle.com/datasets/harsha547/ipldatabase)     |
 
 ```http
-  
+
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/1.png)
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/2.png)
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/3.png)
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/4.png)
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/5.png)
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/6.png)
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/7.png)
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/8.png)
