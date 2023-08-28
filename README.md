@@ -15,7 +15,7 @@
 |9| US Fraudulent Job Posting Classification | [Link](https://github.com/sudhanshu2198/Fraudulent-Job-Posting-Prediction-)|  [Link](https://www.kaggle.com/code/sudhanshu2198/us-fraudulent-job-posting-prediction/notebook)        |   [Link](https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction)     |
 |10| IPL Analysis using SQL | [Link](https://github.com/sudhanshu2198/IPL-Analysis-using-SQL)|  [Link](https://www.kaggle.com/code/sudhanshu2198/ipl-sports-analysis-using-sql)        |   [Link](https://www.kaggle.com/datasets/harsha547/ipldatabase)     |
 
-```http
+```
 
 ![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/1.png)
 ![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/2.png)
