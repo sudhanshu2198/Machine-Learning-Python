@@ -18,11 +18,18 @@
 ```
 ```
 
-![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/1.png)
-![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/2.png)
+## Model Deployment
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/2.PNG)
+
+## Imbalanced Dataset
 ![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/3.png)
 ![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/4.png)
+
+## Multi-Class Classification
 ![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/5.png)
-![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/6.png)
+
+## Time Series Analysis
 ![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/7.png)
-![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/8.png)
+
+## Natural Language Processing
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/8.jpg)
