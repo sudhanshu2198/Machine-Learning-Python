@@ -20,6 +20,7 @@
 
 ## Model Deployment
 ![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/2.PNG)
+![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/ezgif.com-optimize.gif)
 
 ## Imbalanced Dataset
 ![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/3.png)
