@@ -23,7 +23,6 @@
 
 ## Imbalanced Dataset
 ![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/3.png)
-![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/4.png)
 
 ## Multi-Class Classification
 ![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/5.png)
