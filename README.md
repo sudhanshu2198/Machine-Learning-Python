@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning using Python
 ![](https://github.com/sudhanshu2198/Machine-Learning-Python/blob/main/images/ezgif.com-optimize.gif)
 
 This repository contains links to projects solving wide range of problems using classical machine learning. The Problems solved are in Natural Language Processing, Time Series Analysis, Model Deployment, Highly Imbalanced Dataset and multi-class classification. 
